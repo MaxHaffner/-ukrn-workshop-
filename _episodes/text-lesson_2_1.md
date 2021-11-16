@@ -25,6 +25,7 @@ dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
 
 ---
+## welcome to the policy and permission
 Introduce your participants to the more technical details of preprinting: journal policies and permissions. The content should be specific to your participants’ research area, e.g. if your workshop is for researchers working in biological sciences, then the policies of journals in physics won’t be relevant to them.
 
 ## Understanding journal policies/permissions
