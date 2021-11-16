@@ -29,7 +29,7 @@ dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
 
 ---
-## Welcome to preprints 
+# **Welcome to preprints **
 
 Begin your workshop with an introduction to the concept of preprints, along with potential benefits and drawbacks.
 
