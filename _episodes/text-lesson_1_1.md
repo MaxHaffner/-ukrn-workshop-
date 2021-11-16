@@ -29,7 +29,7 @@ dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
 
 ---
-# Welcome to preprints 
+## Welcome to preprints 
 
 Begin your workshop with an introduction to the concept of preprints, along with potential benefits and drawbacks.
 
@@ -48,7 +48,7 @@ Introduce some of the benefits of preprinting. These could include:
 
 Importantly, address the concerns that your participants have. Common concerns (and how to address them) may include:
 
-- The dangers of having non-peer reviewed studies in public view (and how to mitigate that)
+- The dangers of having non-peer-reviewed studies in public view (and how to mitigate that)
 - Having multiple versions of a paper out there (and how to link back to the final published version)
 
 You might want to reassure the participants of your workshop that it’s okay to be concerned about these topics, and that your workshop will help them overcome these concerns.# 
